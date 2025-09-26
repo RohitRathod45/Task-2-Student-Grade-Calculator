@@ -1,4 +1,4 @@
-// Task 2 - Student Grade Calculator
+// Task 2: Student Grade Calculator
 import java.util.Scanner;
 
 public class StudentGradeCalculator {
